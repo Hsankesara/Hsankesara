@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I am Heet and I do deep learning related stuff. I sometimes even write about them too and you can read more about them at my repository [DeepResearch](https://github.com/Hsankesara/DeepResearch). 
+I am Heet and I do deep learning related stuff. I sometimes even write about them too and you can read more about them in my repository [DeepResearch](https://github.com/Hsankesara/DeepResearch). 
 
 ### Find me on the internet:
 
